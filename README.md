@@ -81,6 +81,8 @@
 > $ pkg install lolcat
 > $ pkg install python2
 > $ pkg install bash
+> $ pkg install python
+> $ pkg install nano
 
 > jika bahan-bahan di atas sudah terinstall kalian ketikan eksekusi.
 > caranya adalah:
