@@ -80,8 +80,8 @@ def menu():
          os.system("pkg install python")
          os.system("pkg install curl")
          os.system("pip install requests")
-         os system("pkg install root-repo")
-         os system("pkg install python2")
+         os.system("pkg install root-repo")
+         os.system("pkg install python2")
     elif pil == 8:
         os.system("exit")
         print ("\033[97m[\033[91m•\033[97m] \033[92mSampai Jumpa lagi !!!")
