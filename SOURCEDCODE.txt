@@ -51,7 +51,7 @@ def menu():
         print ("")
         os.system("pkg update")
         os.system("pkg upgrade && pip install requests")
-        os.system("git clone https://github.com/Cabbagec/termux-ohmyzsh")
+        os.system("git clone https://github.com/kZtotorial/tampilan-termux-")
     elif pil == 2:
         print ("Prosses...")
         time.sleep(2)
