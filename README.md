@@ -1,6 +1,6 @@
 <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm pino modz 😇 </h1>
 <p align="center">
-  <img src="https://d.top4top.io/p_2059mc6d10.png" />
+  <img src="https://e.top4top.io/p_2310u9h6a0.png" />
 </p>
 
 - 👼 My name is Pino 
@@ -9,10 +9,10 @@
 
 <h1 align="center"> Connect with me
 <p align="center">
-  <a href="https://instagram.com/xnoob_ganz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://api.whatsapp.com/send/?phone=6285869484139&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://github.com/PinoRecode"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://www.youtube.com/channel/UCMnOhcDe_-8yE9jobx-JenA"><img src="https://img.shields.io/youtube/channel/subscribers/UCMnOhcDe_-8yE9jobx-JenA?style=social" /> <br>
+  <a href="https://api.whatsapp.com/send/?phone=628992176733&text=Assalamualaikum+Stah+Bolehkah+Kita+Berteman+?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/KZtutorial"><img src="https://img.shields.io/badge/telegram-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="https://github.com/KZtutorial"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ"><img src="https://img.shields.io/youtube/channel/subscribers/UCMnOhcDe_-8yE9jobx-JenA?style=social" /> <br>
 </p>
 
 
@@ -57,7 +57,7 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/PinoRecode/"><img title="Author" src="https://img.shields.io/badge/Author-PINOXCODE-red.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/KZtutorial/"><img title="Author" src="https://img.shields.io/badge/Author-Kz.tutorial-red.svg?style=for-the-badge&logo=github" /></a>
   <h4 align="center">
   <a href="https://wa.me/628992176733"> CHAT DEVELOPER </a>
 </h4>
