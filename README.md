@@ -1,11 +1,11 @@
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm pino modz 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Kz.tutorial </h1>
 <p align="center">
   <img src="https://b.top4top.io/p_2310io7yo0.jpg" />
 </p>
 
 
-- 👼 My name is Pino 
-- 🍼 I am 16 years old 
+- 👼 My name is Juliopangkey
+- 🍼 I am 19 years old 
 - 🔭 I am not programmer
 
 <h1 align="center"> Connect with me
@@ -69,7 +69,11 @@
 > Cara Setting Tampilan Termux Menjadi Lebih Keren:v
 
 ```
-
+## PREVIEW
+<p align="center">
+  <img src="https://k.top4top.io/p_231058c5h0.png" />
+</p>
+  
 ## CMD INSTALL 
 ```bash 
 > $ apt update && apt upgrade
