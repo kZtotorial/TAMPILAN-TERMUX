@@ -86,9 +86,9 @@
 > caranya adalah:
 
 > $ pkg install git
-> $ git clone https://github.com/PinoRecode/home-termux-pinomod
-> $ cd home-termux-pinomod
+> $ git clone https://github.com/kZtotorial/TAMPILAN-TERMUX
+> $ cd TAMPILAN-TERMUX
 > $ ls
-> $ python2 run.py
+> $ python tampilan-stayling.py
 
 ```
