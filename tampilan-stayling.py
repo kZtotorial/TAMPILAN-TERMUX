@@ -1,0 +1,92 @@
+#Authour: Kz.tutorial
+#Date: 29-04-2022
+#Youtube: Kz.tutorial
+#Whatsap: https://wa.me/628992176733
+#Telegram: https://t.me/628992176733
+#Coding Python UTF8 
+#Subscribe ngapa yt gua gratiss
+#Record aja,, bayar pake subscribe
+import os,sys,time,random,json
+
+def mengetik(z):
+    for e in z + "\n":
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.1)
+os.system("clear")
+mengetik("Subscribe duluh Yt >_<")
+time.sleep(2)
+#Gak usah ganti  >_T
+os.system("xdg-open https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ")
+print ("")
+#Jaggan Ganti
+pengguna = input("[\033[95m•\033[97m] \033[92mMasukkan nama Anda\033[97m :\033[93m ")
+def clear_figlet():
+    os.system("clear")
+    # Ganti Nama figlet terserah
+    os.system("figlet TAMPILAN")
+
+def menu():
+    # Ganti nama luh
+    print (" \033[97m[\033[91m•\033[97m] Creator:\033[92m Julio")
+    print (" \033[97m[\033[91m•\033[97m] youtube:\033[92m Kz.tutorial")
+    print (" \033[97m[\033[91m•\033[97m] Github :\033[92m https://github.com/kZtotorial")
+    print (" \033[97m[\033[91m•\033[97m] Tools  :\033[92m Tampilan")
+    print (" \033[97m[\033[91m•\033[97m] Nama Pengguna :\033[92m", pengguna) 
+    print ("")
+    print ("\033[93m==================\033[91m[ \033[92mMENU TOOLS \033[91m]\033[93m==================")
+    print ("\033[97m[\033[95m1\033[97m]. \033[92mInstall Tampilan-Termux-Styling")
+    print ("\033[97m[\033[95m2\033[97m]. \033[92mInstall Keybord-Hackers")
+    print ("\033[97m[\033[95m3\033[97m]. \033[92mInstall Termux-terbaru-0.118.0-apk")
+    print ("\033[97m[\033[95m4\033[97m]. \033[92mYoutube Authour")
+    print ("\033[97m[\033[95m5\033[97m]. \033[92mHub Authour Whatsapp")
+    print ("\033[97m[\033[95m6\033[97m]. \033[92mHub Authour Telegram")
+    print ("\033[97m[\033[95m7\033[97m]. \033[92mUpdate tools")
+    print ("\033[97m[\033[95m8\033[97m]. \033[93mExit..")
+    print ("")
+    pil = int(input("\033[97m[\033[91m•\033[97m]\033[92m Masukan Pilihan anda \033[97m:\033[93m "))
+    if pil == 1:
+        print ("\033[97m[\033[91m•\033[97m]\033[92m prosses...")
+        time.sleep(2)
+        print ("")
+        os.system("pkg update")
+        os.system("pkg upgrade && pip install requests")
+        os.system("git clone https://github.com/Cabbagec/termux-ohmyzsh")
+    elif pil == 2:
+        print ("Prosses...")
+        time.sleep(2)
+        os.system("pkg upgrade && pip install requests")
+        os.system("xdg-open https://m.apkpure.com/id/hacker-s-keyboard/org.pocketworkstation.pckeyboard")
+    elif pil == 3:
+        os.system("xdg-open https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/")
+    elif pil == 4:
+        # Ganti link Yt lu
+        os.system("xdg-open https://youtube.com/channel/UCRaVHUXQGVAH7Gof7kixIoQ")
+    elif pil == 5:
+        # Ganti Nomor wa nya
+        os.system("xdg-open https://wa.me/628992176733")
+    elif pil == 6:
+        # Ganti Link telegram luh
+        os.system("xdg-open https://t.me/KZtutorial")
+    elif pil == 7:
+         print ("")
+         print ("[\033[93m•\033[97m]\033[96m Install Update tools")
+         print ("")
+         os.system("pkg update")
+         os.system("pkg upgrade")
+         os.system("pkg install python && pip install requests")
+         os.system("pkg install wget")
+         os.system("pkg install bash")
+         os.system("pkg install python")
+         os.system("pkg install curl")
+         os.system("pip install requests")
+         os system("pkg install root-repo")
+         os system("pkg install python2")
+    elif pil == 8:
+        os.system("exit")
+        print ("\033[97m[\033[91m•\033[97m] \033[92mSampai Jumpa lagi !!!")
+    else:
+        mengetik("\033[97m[\033[91m•\033[97m]\033[96m Menu Tidak ada !!!")
+
+clear_figlet()
+menu()
